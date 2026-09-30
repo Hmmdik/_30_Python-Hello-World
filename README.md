@@ -2,14 +2,12 @@ Hello, World
 ============
 
 A simple program, and an example of how to structure a python project. Demonstrates a basic package
-file structure (using [flat layout]) and a way to define a [single package version] shared between
+file structure and a way to define a single package version. shared between
 package metadata and program runtime.
 
 See also: the Python Packaging User Guide at https://packaging.python.org/ offers more complete
 examples and explanations.
 
-[flat layout]: https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/
-[single package version]: https://packaging.python.org/en/latest/guides/single-sourcing-package-version/
 
 Basic usage
 -----------
