@@ -5,8 +5,6 @@ A simple program, and an example of how to structure a python project. Demonstra
 file structure and a way to define a single package version. shared between
 package metadata and program runtime.
 
-See also: the Python Packaging User Guide at https://packaging.python.org/ offers more complete
-examples and explanations.
 
 
 Basic usage
